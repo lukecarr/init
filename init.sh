@@ -104,7 +104,7 @@ taps=()
 apply_brew_taps "${taps[@]}"
 
 # install casks
-apps=(cursor)
+apps=(cursor docker)
 install_brew_casks "${apps[@]}"
 
 # install formulas
