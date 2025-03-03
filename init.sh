@@ -127,3 +127,11 @@ install_mas_apps() {
 # install App Store apps
 mas_apps=()
 install_mas_apps "${mas_apps[@]}"
+
+# install oh-my-zsh
+if [ -d "$HOME/.oh-my-zsh" ]; then
+  print_success "oh-my-zsh is already installed"
+else
+  print_status "Installing oh-my-zsh"
+  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+fi

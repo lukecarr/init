@@ -11,6 +11,7 @@ The scripts are designed to be idempotent, meaning they can be safely run multip
 - Installs Xcode Command Line Tools
 - Installs Homebrew package manager
 - Installs applications and tools via Homebrew
+- Installs oh-my-zsh
 - Sets up macOS preferences and configurations
 - Provides clear status messages during installation
 - Safe to run on existing systems
