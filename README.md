@@ -39,29 +39,31 @@ The following desktop applications are installed:
 
 No Mac App Store apps are currently configured for installation.
 
+## Requirements
+
+- macOS operating system
+- Internet connection for downloading packages
 
 ## Usage
 
-1. Clone this repository:
+1. Clone the repository and navigate to the directory:
+
    ```bash
    git clone https://github.com/lukecarr/init.git
    cd init
    ```
 
-2. Make the init script executable:
+1. Make the init script executable:
+
    ```bash
    chmod +x init.sh
    ```
 
-3. Run the init script:
+1. Run the init script:
+
    ```bash
    ./init.sh
    ```
-
-## Requirements
-
-- macOS operating system
-- Internet connection for downloading packages
 
 ## License
 
