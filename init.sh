@@ -108,7 +108,7 @@ apps=(cursor docker warp)
 install_brew_casks "${apps[@]}"
 
 # install formulas
-packages=(git curl stow mas)
+packages=(git curl stow mas jq)
 install_brew_formulas "${packages[@]}"
 
 # function to install App Store apps

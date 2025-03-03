@@ -25,9 +25,10 @@ The following command-line tools are installed:
 - **curl** - Command line tool for transferring data with URLs
 - **stow** - Symlink farm manager for managing [dotfiles](https://github.com/lukecarr/dotfiles)
 - **mas** - Mac App Store command-line interface
+- **jq** - Command-line JSON processor
 
 > [!NOTE]
-> `git` and `curl` are installed by default on macOS, but I like to ensure they are up to date by installing them via Homebrew.
+> `git`, `curl`, and `jq` are installed by default on macOS, but I like to ensure they are up to date by installing them via Homebrew.
 
 ### Homebrew Casks
 
