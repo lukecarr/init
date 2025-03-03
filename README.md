@@ -34,6 +34,8 @@ The following command-line tools are installed:
 The following desktop applications are installed:
 
 - **Cursor** - My preferred code editor
+- **Docker** - Containerisation platform (includes Docker Desktop)
+- **Warp** - Terminal emulator
 
 ### Mac App Store Apps
 
