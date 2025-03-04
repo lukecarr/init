@@ -41,7 +41,10 @@ The following desktop applications are installed:
 
 ### Mac App Store Apps
 
-No Mac App Store apps are currently configured for installation.
+The following applications are installed from the App Store:
+
+- **Strongbox** - KeePass-compatible password manager
+- **Tailscale** - WireGuard-based VPN
 
 ## Requirements
 

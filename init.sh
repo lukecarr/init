@@ -125,7 +125,10 @@ install_mas_apps() {
 }
 
 # install App Store apps
-mas_apps=()
+mas_apps=(
+  897283731 # Strongbox Password Manager
+  1475387142 # Tailscale
+)
 install_mas_apps "${mas_apps[@]}"
 
 # install oh-my-zsh
