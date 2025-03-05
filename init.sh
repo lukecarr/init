@@ -128,6 +128,7 @@ install_mas_apps() {
 mas_apps=(
   897283731 # Strongbox Password Manager
   1475387142 # Tailscale
+  1461845568 # Gifox
 )
 install_mas_apps "${mas_apps[@]}"
 

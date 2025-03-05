@@ -38,6 +38,7 @@ The following desktop applications are installed:
 - **Cursor** - My preferred code editor
 - **Docker** - Containerisation platform (includes Docker Desktop)
 - **Warp** - Terminal emulator
+- **Gifox** - GIF screen recorder
 
 ### Mac App Store Apps
 
