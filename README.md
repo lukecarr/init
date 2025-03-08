@@ -39,6 +39,7 @@ The following desktop applications are installed:
 - **Docker** - Containerisation platform (includes Docker Desktop)
 - **Warp** - Terminal emulator
 - **Gifox** - GIF screen recorder
+- **Signal** - Instant messaging
 
 ### Mac App Store Apps
 
