@@ -40,6 +40,7 @@ The following desktop applications are installed:
 - **Warp** - Terminal emulator
 - **Gifox** - GIF screen recorder
 - **Signal** - Instant messaging
+- **Notion** - Note taking
 
 ### Mac App Store Apps
 

@@ -104,7 +104,7 @@ taps=()
 apply_brew_taps "${taps[@]}"
 
 # install casks
-apps=(cursor docker warp signal)
+apps=(cursor docker warp signa notion)
 install_brew_casks "${apps[@]}"
 
 # install formulas
