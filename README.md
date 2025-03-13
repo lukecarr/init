@@ -41,6 +41,7 @@ The following desktop applications are installed:
 - **Gifox** - GIF screen recorder
 - **Signal** - Instant messaging
 - **Notion** - Note taking
+- **UTM** - Virtual machines (e.g. Windows)
 
 ### Mac App Store Apps
 
