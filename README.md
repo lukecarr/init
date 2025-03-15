@@ -42,6 +42,7 @@ The following desktop applications are installed:
 - **Signal** - Instant messaging
 - **Notion** - Note taking
 - **UTM** - Virtual machines (e.g. Windows)
+- **Steam** - Games
 
 ### Mac App Store Apps
 
