@@ -43,6 +43,7 @@ The following desktop applications are installed:
 - **Notion** - Note taking
 - **UTM** - Virtual machines (e.g. Windows)
 - **Steam** - Games
+- **Cloudflare Warp** - DNS
 
 ### Mac App Store Apps
 
